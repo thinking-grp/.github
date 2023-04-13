@@ -3,7 +3,7 @@
 ![thinkingのロゴ](https://github.com/thinking-grp/logos/blob/f12e1a86d70111010316475e48e9192c74f20a49/twitter-header.jpg)
 
 <div align="center">
-  <a href="https://twitter.com/intent/follow?screen_name=Ablaze_MIRAI" target="_blank" rel="noopener noreferrer">
+  <a href="https://twitter.com/intent/follow?screen_name=thinking_grp" target="_blank" rel="noopener noreferrer">
     <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/thinking_grp?style=social">
   </a>
 </div>
