@@ -1,6 +1,6 @@
 ## Welcome to thinking-grp! 👋
 
-![thinkingのロゴ](https://github.com/thinking-grp/logos/blob/f12e1a86d70111010316475e48e9192c74f20a49/twitter-header.jpg)
+![thinkingのロゴ](https://raw.githubusercontent.com/thinking-grp/.github/main/img/header.jpg)
 
 <div align="center">
   <a href="https://twitter.com/intent/follow?screen_name=thinking_grp" target="_blank" rel="noopener noreferrer">
