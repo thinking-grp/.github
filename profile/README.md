@@ -17,6 +17,8 @@
 
 [thinkerAI](https://github.com/thinking-grp/thinkerAI)
 
+[thonk-kun](https://github.com/thinking-grp/thonk-kun)
+
 [thinkerAI-Installer](https://github.com/thinking-grp/thinkerAI-Installer)
 
 [thinkReplyer](https://github.com/thinking-grp/thinkReplyer)
