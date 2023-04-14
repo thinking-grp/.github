@@ -1,4 +1,4 @@
-## Welcome to thinking-grp! 👋
+## Welcome to thinking! 👋
 
 ![thinkingのロゴ](https://raw.githubusercontent.com/thinking-grp/.github/main/img/header.jpg)
 
