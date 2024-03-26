@@ -15,19 +15,19 @@
 
 ## Projects 🗂️
 
-[thinkerAI](https://github.com/thinking-grp/thinkerAI)
+[thinkFont](https://thinking-grp.github.io/project/thinkfont)
+
+[thinkOS](https://thinking-grp.github.io/project/thinkos)
+
+[thinkworld](https://thinking-grp.github.io/project/thinkworld)
 
 [thonk-kun](https://github.com/thinking-grp/thonk-kun)
+
+[thinkerAI](https://github.com/thinking-grp/thinkerAI)
 
 [thinkerAI-Installer](https://github.com/thinking-grp/thinkerAI-Installer)
 
 [thinkReplyer](https://github.com/thinking-grp/thinkReplyer)
-
-[thinkworld](https://thinking-grp.github.io/project/thinkworld)
-
-[thinkFont](https://thinking-grp.github.io/project/thinkfont)
-
-[thinkOS](https://thinking-grp.github.io/project/thinkos)
 
 ## SNS 🌎
 
