@@ -36,3 +36,5 @@
 [YouTube](https://www.youtube.com/@thinking_grp)
 
 [note](https://note.com/thinking_grp)
+
+[Instagram](https://www.instagram.com/thinking_grp)
