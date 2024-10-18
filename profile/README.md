@@ -19,13 +19,13 @@
 
 [thinkOS](https://thinking-grp.github.io/project/thinkos)
 
-[thinkworld](https://thinking-grp.github.io/project/thinkworld)
+[thinkworld - 廃止]()
 
 [thonk-kun](https://github.com/thinking-grp/thonk-kun)
 
-[thinkerAI](https://github.com/thinking-grp/thinkerAI)
+[thinkerAI - 中止]()
 
-[thinkerAI-Installer](https://github.com/thinking-grp/thinkerAI-Installer)
+[thinkerAI - 中止]()
 
 [thinkReplyer](https://github.com/thinking-grp/thinkReplyer)
 
