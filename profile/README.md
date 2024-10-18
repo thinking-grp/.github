@@ -23,9 +23,9 @@
 
 [thonk-kun](https://github.com/thinking-grp/thonk-kun)
 
-[thinkerAI - 中止]()
+[thinkerAI](https://github.com/thinking-grp/)
 
-[thinkerAI - 中止]()
+[thinkerAI-Installer](https://github.com/thinking-grp/thinkerAI-Installer)
 
 [thinkReplyer](https://github.com/thinking-grp/thinkReplyer)
 
