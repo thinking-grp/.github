@@ -19,15 +19,9 @@
 
 [thinkOS](https://thinking-grp.github.io/project/thinkos)
 
-[thinkworld - 廃止]()
+thinkworld - 廃止
 
-[thonk-kun](https://github.com/thinking-grp/thonk-kun)
-
-[thinkerAI](https://github.com/thinking-grp/)
-
-[thinkerAI-Installer](https://github.com/thinking-grp/thinkerAI-Installer)
-
-[thinkReplyer](https://github.com/thinking-grp/thinkReplyer)
+thinkerAI-Project
 
 ## SNS 🌎
 
