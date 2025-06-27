@@ -19,9 +19,9 @@
 
 [thinkOS](https://thinking-grp.github.io/project/thinkos)
 
-thinkworld - 廃止
+[thinkerAI](https://thinking-grp.github.io/project/thinkerAI)
 
-thinkerAI-Project
+[thinking SNS](https://www.thinking-grp.org/project/thinkingsns)
 
 ## SNS 🌎
 
