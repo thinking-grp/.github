@@ -15,13 +15,13 @@
 
 ## Projects 🗂️
 
-[thinkFont](https://thinking-grp.github.io/project/thinkfont)
+[thinkFont](https://www.thinking-grp.org/project/thinkfont)
 
-[thinkOS](https://thinking-grp.github.io/project/thinkos)
+[thinkOS](https://www.thinking-grp.org/project/thinkos)
 
-[thinkerAI](https://thinking-grp.github.io/project/thinkerAI)
+[thinkerAI-Project](https://www.thinking-grp.org/project/thinkerAI)
 
-[thinking SNS](https://www.thinking-grp.org/project/thinkingsns)
+[thinkSocial](https://www.thinking-grp.org/project/thinkingsns)
 
 ## SNS 🌎
 
